@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Cyber Security Enthusiast | Network Administration | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://tenor.com/view/pray-gif-244626384515777729" width="300"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFzdjFoZTNncWZpdWs4Y29qd3FjNjlsejA0eHN5cGlleHl3NnMwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eNNJyu9LTozXq/giphy.gif" width="300"/>
 </p>
 
 ---
