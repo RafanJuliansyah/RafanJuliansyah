@@ -34,7 +34,7 @@
 
   <!-- Networking -->
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mikrotik-068DC5?style=for-the-badge&logo=mikrotik&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLMap-FF4500?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
